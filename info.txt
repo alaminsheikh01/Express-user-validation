@@ -1,0 +1,12 @@
+backend npm:
+npm init -y
+touch .gitignore
+touch .env
+npm install express mongoose body-parser cookie-parser 
+npm install morgan nodemon dotenv
+npm install cors
+npm install express-validator jsonwebtoken express-jwt 
+npm install formidable lodash slugify string-strip-html (very important for seo)
+npm i shortid
+
+frontend npm:
